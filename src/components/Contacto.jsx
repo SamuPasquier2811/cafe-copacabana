@@ -1,4 +1,4 @@
-import CupButton from './Cupbutton';
+import CupButton from './Cup_Button';
 
 export default function Contacto() {
   return (

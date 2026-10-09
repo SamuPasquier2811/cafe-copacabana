@@ -1,4 +1,4 @@
-import CountUp from "./Countup"
+import CountUp from "./Count_Up"
 
 // Si tus imágenes tienen otro nombre, cambia solo el valor de "img"
 const HITOS = [

@@ -1,5 +1,5 @@
 import { useRef } from 'react'
-import CupButton from './Cupbutton'
+import CupButton from './Cup_Button'
 
 const BEANS = [
   { x: '2%', y: '10%', s: 30, r: -25, dur: 9, del: 0 },
