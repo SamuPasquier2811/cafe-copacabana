@@ -4,10 +4,10 @@ import CupButton from './Cup_Button'
 const BEANS = [
   { x: '2%', y: '10%', s: 30, r: -25, dur: 9, del: 0 },
   { x: '46%', y: '5%', s: 22, r: 30, dur: 11, del: -3 },
-  { x: '92%', y: '12%', s: 34, r: 15, dur: 10, del: -5 },
+  { x: '84%', y: '12%', s: 34, r: 15, dur: 10, del: -5 },
   { x: '6%', y: '80%', s: 26, r: 50, dur: 12, del: -2 },
   { x: '48%', y: '92%', s: 20, r: -40, dur: 8, del: -6 },
-  { x: '95%', y: '74%', s: 28, r: -10, dur: 13, del: -4 },
+  { x: '88%', y: '74%', s: 28, r: -10, dur: 13, del: -4 },
 ]
 
 export default function Hero() {
